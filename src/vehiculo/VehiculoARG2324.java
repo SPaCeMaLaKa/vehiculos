@@ -124,7 +124,7 @@ public class VehiculoARG2324 {
     }
 /**
  * Método de acceso para el atributo precio
- * @param nombre 
+ * @param precio 
  */
     public void setPrecio(double precio) {
         this.precio = precio;
@@ -138,7 +138,7 @@ public class VehiculoARG2324 {
     }
 /**
  * Método de acceso para el atributo precioIVA
- * @param nombre 
+ * @param precioIVA 
  */
     public void setPrecioIVA(double precioIVA) {
         this.precioIVA = precioIVA;
@@ -152,7 +152,7 @@ public class VehiculoARG2324 {
     }
 /**
  * Método de acceso para el atributo stock
- * @param nombre 
+ * @param stock 
  */
     public void setStock(int stock) {
         this.stock = stock;
